@@ -12,6 +12,9 @@
 	<head>
 	<body>
 		<h1>Belajar jQuery</h1>
+		<h1>Belajar jQuery</h1>
+		<h1>Belajar jQuery</h1>
+		<h1>Belajar jQuery</h1>
 		<button id="tombol">Klik Disini!</button>
 	</body>
 <html>
